@@ -1,0 +1,5 @@
+Ma SV: 2
+Ho ten: lethang
+Diem giua ky: 2
+Diem cuoi ky: 3
+
